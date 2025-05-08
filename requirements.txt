@@ -1,7 +1,8 @@
-numpy
 matplotlib
 tqdm
-torch
 ipython
 jupyterlab
-
+numpy<2
+torch
+torchvision
+torchaudio
