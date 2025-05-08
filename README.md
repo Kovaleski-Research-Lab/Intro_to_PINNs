@@ -25,7 +25,7 @@ Please reach out if there are issues with installation and I will provide a dock
 to run the code in a container. Might do this anyway.
 
 ## References
-I can't reccomend Dr. Ben Moseley's blog/github/published work enough when it comes to learning about PINNs. He is my first go to when I need to refresh my memory on the subject. With that said, this code is based on the following references:
+I can't recommend Dr. Ben Moseley's blog/github/published work enough when it comes to learning about PINNs. He is my first go to when I need to refresh my memory on the subject. With that said, this code is based on the following references:
 
 https://benmoseley.blog
 
